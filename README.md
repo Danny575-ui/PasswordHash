@@ -6,4 +6,4 @@ Python + Tkinter + ttkbootstrap app for user registration, hashed passwords, and
 2. Activate venv and `pip install -r requirements.txt`
 3. `python main.py`
 
-**Do not commit `users.json`, vault files, or key files.**
+

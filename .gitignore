@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+.Python
+build/
+dist/
+*.egg-info/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# PyCharm, VSCode
+.vscode/
+.idea/
+
+# OneDrive or other local files
+*.log
+
+# Application-specific (do NOT commit user DBs or key files)
+users.json
+vaults/
+*.key
